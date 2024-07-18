@@ -1,0 +1,20 @@
+grade=input()
+if grade >= 90 :
+    print("grade = 4.0")
+if grade> 80 and grade <= 89:
+    print("grade = 3.0")
+    if grade > 70 and grade <= 79:
+        print("grade = 2.0")
+if grade > 60 and grade <= 69:
+    print("grade = 1.0")
+
+    if grade < 60:
+        print("grade = 0.0")
+
+
+
+
+
+
+
+
